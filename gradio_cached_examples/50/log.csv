@@ -1,0 +1,4 @@
+component 0,flag,username,timestamp
+"[[""Calculate 15% of 1234"",""15% of 1234 is 185.1""]]",,,2023-12-21 18:00:37.477830
+"[[""Create a .txt file, fill it content with 'Hello World' and save it to current directory"",""Ok, I've created a file called hello_world.txt in the current directory and filled it with the content 'Hello World'.""]]",,,2023-12-21 18:00:46.795596
+"[[""Please create a photo of a dog riding a skateboard"",""Ok, here is a photo of a dog riding a skateboard:\n\n[Show the image file located at /tmp/gradio/5043dc608debaa1cc5d9e3994c5d8f02b86cbed1/tmp84g6yjb6.png]""]]",,,2023-12-21 18:01:26.612508
