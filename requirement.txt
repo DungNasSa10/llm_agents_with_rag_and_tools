@@ -1,0 +1,12 @@
+langchain 
+llama-index 
+trulens-eval 
+transformers 
+sentence-transformers 
+google-search-results 
+langchainhub 
+langchain-google-genai 
+gradio_
+tools 
+langchain-experimental 
+gradio 
