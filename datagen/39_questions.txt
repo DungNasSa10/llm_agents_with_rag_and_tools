@@ -1,0 +1,66 @@
+1. What is the title of the publication?
+2. When was the publication released?
+3. How many authors are mentioned in the document?
+4. What is the affiliation of Dinh Viet Sang?
+5. What is the affiliation of Van Tien Dat?
+6. What is the purpose of facial expression recognition in human-machine interfaces?
+7. What approach is commonly used in classical machine learning for facial expression recognition?
+8. What are the advantages of deep learning in facial expression recognition?
+9. What is the FERC-2013 dataset?
+10. Who won the facial expression recognition competition in 2013?
+11. What is the accuracy of the winning model on the public test set?
+12. What are some practical applications of automated facial expression recognition?
+13. How do robots benefit from automated facial expression recognition?
+14. What are the proposed architectures of Convolutional Neural Networks in this paper?
+15. Which loss function works better than cross-entropy loss in facial expression recognition?
+16. How does the proposed method compare to the state-of-the-art on the FERC-2013 dataset?
+17. What is the Active Appearance Model based on?
+18. What are some well-known deep CNNs for image classification?
+19. How does deep learning allow for automated feature extraction in facial expression recognition?
+20. What were the results of previous studies that employed CNNs for facial expression recognition?
+1. What loss function do Tang et al. use in their facial expression recognition model?
+2. How do Tang et al. create more data for training in their model?
+3. What is the input image size in all architectures proposed in this section?
+4. What are the components of the architectures proposed in this section?
+5. What is the purpose of the ReLU activation function in each convolutional and fully connected layer?
+6. How many neurons are there in the output layer of the architectures?
+7. When is the softmax layer used in the training phase?
+8. How is the class label determined when the multi-class SVM loss is used in the training phase?
+9. What is the designing principle of VGG-like CNNs?
+10. How do the proposed architectures differ from each other?
+11. What is the purpose of data preprocessing in the implementation?
+12. How is data augmentation used to increase the amount of training samples?
+1. What techniques are used in the training phase to minimize loss function?
+2. What is the batch size used in the training phase?
+3. How is overfitting avoided during training?
+4. How is the learning rate adjusted during training?
+5. How are biases and weights initialized in the network?
+6. How many images are taken from the training data for each iteration?
+7. What happens to the training data after each epoch?
+8. What are the two different loss functions used in the experiments?
+9. How is the cross-entropy loss function defined?
+10. How is the L2 multi-class SVM loss function defined?
+11. How is the original dataset divided for training and testing?
+12. How is the trained model applied to the test sets?
+13. What are the two methods used to predict the true class label in the test phase?
+14. How are the final resulting vectors computed in both methods?
+15. Which method gives better results in the experiments?
+16. What dataset is used for the experiments?
+17. How many images are in the training, public test, and private test sets?
+18. How are the images labeled in the dataset?
+19. What are the specifications of the computer used for the experiments?
+20. How does data augmentation affect the accuracy of the BKStart model?
+21. Which test method gives better results in the experiments?
+22. Which loss function achieves better results in the experiments?
+23. How does the accuracy vary among different network architectures?
+24. How do the results compare with the top 4 teams on the Kaggle competition?
+1. What are the results of the RBM winning team on the public and private test sets?
+2. How do the BKVGG14 and BKVGG12 networks compare to the RBM team in terms of performance and speed?
+3. Which emotions have the highest accuracies in the recognition results achieved by the BKVGG12 architecture?
+4. Which emotions are more often confused together in the recognition results?
+5. What is the accuracy of the disgusted class in the recognition results, and how does it compare to the other classes?
+6. What are the conclusions of the paper regarding the proposed architectures of CNNs for facial expression recognition?
+7. How is L2 multi-class SVM loss shown to be preferable in facial expression recognition compared to cross-entropy loss?
+8. What is the importance of data augmentation in training deep neural networks according to the paper?
+9. What is the source of funding for this research?
+10. What are some of the references cited in the paper?

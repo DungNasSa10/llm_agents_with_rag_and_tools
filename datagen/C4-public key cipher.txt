@@ -1,0 +1,18 @@
+1. What are the two main types of cryptography mentioned in the text?
+2. What are the weaknesses of using a shared secret key in cryptography?
+3. Who proposed the Diffie-Hellman
+1. What is the value of 𝑧 after the first line of code is executed?
+2. What is the value of 𝑧 after the second line of code is executed?
+3. Compute the value of 3! using the given code. 
+4. What is the value of 𝑧 after the third line of code is executed?
+5. Compute the value of 1.17'#𝑚𝑜𝑑1012 using the given code.
+6. Compute the value of 3.3125'#𝑚𝑜𝑑99874 using the given code.
+7. Create an RSA system using 𝑝=61 and 𝑞=53.
+8. If the plaintext value is 123, what would be the corresponding ciphertext using the RSA system created in question 7?
+9. Decrypt the given ciphertext to obtain the plaintext.
+10. Prove the equation 𝑋(E*+)(F*+)≡1(𝑚𝑜𝑑𝑝𝑞) using the given information.
+11. Write pseudo code for the Extended Euclidean algorithm for computing the modular multiplicative inverse.
+12. Prove the correctness of the square and multiply algorithm.
+13. What are the topics for the projects mentioned in the text?
+14. Describe the encryption process in the program mentioned in the text.
+15. Describe the cryptanalysis process in the program mentioned in the text.

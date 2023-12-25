@@ -1,0 +1,43 @@
+1. What is the main focus of this set of lecture notes?
+2. What are some key topics discussed in these lecture notes?
+3. What is the GloVe model and how does it differ from previous methods?
+4. How does the co-occurrence matrix play a role in the GloVe model?
+5. What is the least squares objective used in training the GloVe model?
+6. How does the GloVe model compare to other methods in terms of performance?
+7. How can the quality of word vectors be evaluated?
+8. What is intrinsic evaluation and why is it important?
+9. How does intrinsic evaluation help in understanding the word vector generation system?
+10. How does intrinsic evaluation relate to the overall goal of creating a question answering system?
+11. What challenges are faced in tuning hyperparameters in the Word 2Vec subsystem?
+12. Why is retraining the entire system impractical after any parametric changes in the Word 2Vec subsystem?
+13. What is the purpose of a simple intrinsic evaluation technique?
+1. What is the purpose of intrinsic evaluation?
+2. How does extrinsic evaluation differ from intrinsic evaluation?
+3. What is an example of intrinsic evaluation using word vector analogies?
+4. How is the word vector that maximizes cosine similarity identified in intrinsic evaluation?
+5. What should be considered when using intrinsic evaluation techniques such as word-vector analogies?
+6. Can you provide an example of semantic word vector analogies that may suffer from different cities having the same name?
+7. Can you provide an example of syntactic word vector analogies that test the notion of superlative adjectives?
+8. What are some hyperparameters that can be tuned in word vector embedding techniques?
+9. How does performance vary depending on the model used for word embedding?
+10. How does performance change with larger corpus sizes?
+1. What is the effect of using lower dimensional word vectors?
+2. How do extremely high dimensional word vectors affect performance?
+3. How can the quality of word vectors be evaluated?
+4. What is the purpose of extrinsic tasks in natural language processing?
+5. How are most NLP extrinsic tasks formulated?
+6. How are word vectors initialized for extrinsic tasks?
+7. What is the risk of retraining word vectors for extrinsic tasks?
+8. What is the softmax classification function?
+9. How is the loss calculated for softmax classification?
+10. How can the loss function be simplified when there is only one correct class?
+1. What is the purpose of the regularization term in the cost function?
+2. How does minimizing the cost function with the regularization term reduce overfitting?
+3. Why is it necessary to consider the context of a word in natural language processing tasks?
+4. What is the relationship between window size and performance in syntactic and semantic tests?
+5. How can the Softmax model be modified to incorporate windows of words for classification?
+6. What does the gradient of the loss with respect to the words represent?
+7. Why is the use of non-linear classification models, such as neural networks, necessary?
+8. How does a non-linear decision boundary improve classification accuracy compared to a linear decision boundary?
+9. What is the next topic of study in the lecture notes after discussing non-linear classifiers?
+10. How does the non-linear decision boundary in Figure 10 improve classification of datapoints?
